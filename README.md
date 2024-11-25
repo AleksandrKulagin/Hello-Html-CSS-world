@@ -1,2 +1,2 @@
 # Hello-Html-CSS-world
-Learning HTML and CSS
+Learning the basics of HTML and CSS
